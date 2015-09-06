@@ -29,14 +29,14 @@
  *git checkout bugFix*  
  *git checkout C4*  
 ##Level 2
- *git checkout bugFix^*
+ *git checkout bugFix^*  
 ##Level 3
- *git branch -f master C6*
- *git branch -f bugFix HEAD~2*
- *git checkout HEAD^*
+ *git branch -f master C6*  
+ *git branch -f bugFix HEAD~2*  
+ *git checkout HEAD^*  
 ##Level 4
- *git checkout pushed*
- *git revert C2*
- *git checkout local*
- *git reset master*
+ *git checkout pushed*  
+ *git revert C2*  
+ *git checkout local*  
+ *git reset master*  
  
