@@ -45,13 +45,11 @@
 
 # post-commit content
 
-
     #!/bin/sh  
     echo "start post-commit process"  
     xdg-open "http://google.com" &  
     echo "stop post-commit process"  
     
 
-
-# Screencast Link
+# Screencast
 ![hw0gif](https://cloud.githubusercontent.com/assets/8634231/9723046/3a29fd8a-5587-11e5-9086-b314def1a2aa.gif)
