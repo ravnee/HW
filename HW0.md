@@ -1,4 +1,4 @@
-#Introduction Sequence
+# Introduction Sequence
 ##Level 1
  *git commit*  
  *git commit*
@@ -40,3 +40,5 @@
  *git checkout local*  
  *git reset master*  
  
+# Git Hub Levels Snapshot
+![levels](https://cloud.githubusercontent.com/assets/8634231/9722703/1e066f82-5580-11e5-9c0c-858df50b9f65.PNG)
